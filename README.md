@@ -31,7 +31,7 @@
 <li>de Queiroz, R. (1994) “Normalisation and language-games.” <i>Dialectica</i> 48(2), pp. 83-123</li>
 <li>de Queiroz, R. (2008). “On Reduction Rules, Meaning-as-Use, & Proof-Theoretic Semantics.”  <i>Studia Logica</i> 90, pp. 211–47</li>
 <li>Fabbri, R., Oliveira, O., Costa, L. (2010). “Philosometrics.” Retrieved from https://arxiv.org/abs/1010.1880</li>
-<li>Hladik, J. (2004). “Spinoza's Ontology,” in Büchel, G., Klein, B., & Roth-Berghofer, T. (Eds.). (2004). <i>Proceedings of the 1st Workshop on Philosophy and Informatics (WSPI 2004)</i>. DFKI: DFKI Research Reports. Retrieved from https://iccl.inf.tu-dresden.de/web/LATPub288
+<li>Hladik, J. (2004). “<a href="https://iccl.inf.tu-dresden.de/web/LATPub288">Spinoza's Ontology</a>,” in Büchel, G., Klein, B., & Roth-Berghofer, T. (Eds.). (2004). <i>Proceedings of the 1st Workshop on Philosophy and Informatics (WSPI 2004)</i>. DFKI: DFKI Research Reports.
 <li>Johnson, C. (n.d.). “Daoism & Computation.” Retrieved from www.carlsensei.com/docs/essays/dao-and-computation.pdf </li>
 <li>Knuth, D. (1984). “The Complexity of Songs.” <i>Communications of the ACM</i> 27(4), pp. 344-6</li>
 <li>Schang, F. (n.d.). “A Formal Semantics of International Relations.” Retrieved from www.academia.edu/13790556</li>
