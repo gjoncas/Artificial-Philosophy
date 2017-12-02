@@ -1,4 +1,7 @@
-# Artificial-Philosophy
+# Artificial Philosophy
+
+<b>Topics of Interest</b>
+<br>Algebraic semiotics, bisimulation, Borel hierarchy, cellular automata, computational metaphysics, computational narratology, computational psychoanalysis, cryptosophy, dynamic epistemic logic, epistemic games, formal verification, game logics, hypercomputation, idempotent analysis, judgment aggregation, Krohn–Rhodes theory, λ-calculus, loop invariants, modal logic, μ-calculus, non-parametric philosophy, Oulipo, ‘patadata, π-calculus, polypoems, quines, recursive worlds, ρ-calculus, social software, surreal numbers, supertasks/hypertasks, temporal logic, Θ-combinator, topological games, type theory, ultrafilters, undecidability, viruses, Wang tiles, xenotation, Y-combinator, <i>Yi Jing</i> (易经), Zipf's law, zero-knowledge proofs
 
 <b>References – Books</b>
 <ul>
@@ -36,6 +39,3 @@
 <li>Knuth, D. (1984). “The Complexity of Songs.” <i>Communications of the ACM</i> 27(4), pp. 344-6</li>
 <li>Schang, F. (n.d.). “A Formal Semantics of International Relations.” Retrieved from www.academia.edu/13790556</li>
 </ul>
-
-<b>Topics of Interest</b>
-<br>Algebraic semiotics, bisimulation, Borel hierarchy, cellular automata, computational metaphysics, computational narratology, computational psychoanalysis, cryptosophy, dynamic epistemic logic, epistemic games, formal verification, game logics, hypercomputation, idempotent analysis, judgment aggregation, Krohn–Rhodes theory, λ-calculus, loop invariants, modal logic, μ-calculus, non-parametric philosophy, Oulipo, ‘patadata, π-calculus, polypoems, quines, recursive worlds, ρ-calculus, social software, surreal numbers, supertasks/hypertasks, temporal logic, Θ-combinator, topological games, type theory, ultrafilters, undecidability, viruses, Wang tiles, xenotation, Y-combinator, <i>Yi Jing</i> (易经), Zipf's law, zero-knowledge proofs
