@@ -26,7 +26,7 @@ Maybe start with 3×3×3 cubes, and work my way up to 4×4×4 and (if possible) 
 <br>It shouldn’t be possible to do 2×2×2 cubes, since any letters need to be palindromes (e.g. aa)
 
 An interesting extension is to encode ‘higher-dimensional’ poems (e.g. 5×5×5×5×5), unrepresentable geometrically.
-<br>This would require a general algbraic formula for square/cube poems’ constraints, extended for <i>n</i> dimensions.
+<br>This would require a general algebraic formula for square/cube poems’ constraints, extended for <i>n</i> dimensions.
 
 I plan to do this in Python. It should be a nice excuse to practice regular expressions.
 
