@@ -53,19 +53,25 @@ I plan to do this in Python. It should be a nice excuse to practice regular expr
 &nbsp;
 
 <b>4-letter semordnilaps</b>
-<br>bats ↭ stab, draw ↭ ward, evil ↭ live, flog ↭ golf, meet ↭ teem, nets ↭ sten, nuts ↭ stun, 
-<br>pans ↭ snap, part ↭ trap, paws ↭ swap, pots ↭ stop, prat ↭ tarp, rats ↭ star, spit ↭ tips
+<br>abut ↭ tuba, ados ↭ soda, ajar ↭ raja, avid ↭ diva, bats ↭ stab, bonk ↭ knob, bulb ↭ blub, buts ↭ stub, cite ↭ etic, 
+<br>deke ↭ eked, deep ↭ peed, deer ↭ reed, dial ↭ laid, drab ↭ bard, draw ↭ ward, dray ↭ yard, doom ↭ mood, edit ↭ tide, 
+<br>emir ↭ rime, emit ↭ time, ergo ↭ ogre, eros ↭ sore, etas ↭ sate, evil ↭ live, flog ↭ golf, flow ↭ wolf, gals ↭ slag, 
+<br>garb ↭ brag, girt ↭ trig, gnat ↭ tang, gnus ↭ snug, gulp ↭ plug, gums ↭ smug, guns ↭ snug, grub ↭ burg, hahs ↭ shah, 
+<br>hoop ↭ pooh, keel ↭ leek, keep ↭ peek, know ↭ wonk, lair ↭ rial, leer ↭ reel, loot ↭ tool, mart ↭ tram, maws ↭ swam, 
+<br>meet ↭ teem, moor ↭ room, nets ↭ sten, nips ↭ spin, nuts ↭ stun, oohs ↭ shoo, pans ↭ snap, pins ↭ snip, part ↭ trap, 
+<br>paws ↭ swap, perp ↭ prep, pets ↭ step, pots ↭ stop, prat ↭ tarp, rats ↭ star, raps ↭ spar, snit ↭ tins, snot ↭ tons, 
+<br>spat ↭ taps, spaz ↭ zaps, spit ↭ tips, spot ↭ tops, stew ↭ wets, tort ↭ trot
 
 <b>5-letter semordnilaps</b>
-<br>devil ↭ lived
-<br>smart ↭ trams
-<br>straw ↭ warts
+<br>debut ↭ tubed, decaf ↭ faced, deets ↭ steed, defer ↭ refed, demit ↭ timed, denim ↭ mined, depot ↭ toped, 
+<br>devas ↭ saved, devil ↭ lived, doser ↭ resod, fires ↭ serif, gnats ↭ stang, gnaws ↭ swang, knaps ↭ spank, 
+<br>knits ↭ stink, leper ↭ repel, lever ↭ revel, loops ↭ spool, loots ↭ stool, namer ↭ reman, ports ↭ strop, 
+<br>rebut ↭ tuber, relit ↭ tiler, repot ↭ toper, smart ↭ trams, snaps ↭ spans, straw ↭ warts
 
 <b>6-letter semordnilaps</b>
-<br>animal ↭ lamina
-<br>diaper ↭ repaid
-<br>drawer ↭ reward
-<br>redraw ↭ warder
+<br>animal ↭ lamina, dialer ↭ relaid, diaper ↭ repaid, denier ↭ reined, denies ↭ seines, drawer ↭ reward, eviler ↭ relive, 
+<br>gelder ↭ redleg, looter ↭ retool, recaps ↭ spacer, redips ↭ spider, redraw ↭ warder, reflow ↭ wolfer, reknit ↭ tinker, 
+<br>repins ↭ sniper, retros ↭ sorter, skeets ↭ steek, sleets ↭ steels, sloops ↭ spools, snoops ↭ spoons, sports ↭ strops
 
 &nbsp;
 
