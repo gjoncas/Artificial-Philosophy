@@ -21,6 +21,7 @@ There are problems with combining ‘square poems’ to form a cube.
 
 It's possible to write a cube poem, but hard to do a non-trivial one.
 <br>A cheap way out is to let a123 = 321a = 356d, i.e. use palindromes. But that’s unsatisfying.
+<br>Thus a123 will have to be a <a href="https://en.wiktionary.org/wiki/semordnilap">semordnilap</a>: a word that forms a different word when spelled backwards.
 
 Maybe start with 3×3×3 cubes, and work my way up to 4×4×4 and (if possible) bigger.
 <br>It shouldn’t be possible to do 2×2×2 cubes, since any letters need to be palindromes (e.g. aa)
@@ -48,6 +49,23 @@ I plan to do this in Python. It should be a nice excuse to practice regular expr
 <br>finif = a five-dollar bill 
 <br>irori = a traditional sunken hearth common in Japan, used to heat the home and to cook food
 <br>kaiak, kayak, Kazak, koyok, lemel, level, madam, maqam, minim, mmhmm, neven, put-up, radar, refer, rotor, sagas, semes, sexes, shahs, solos, Soros, stats, stots, tenet, xanax
+
+&nbsp;
+
+<b>4-letter semordnilaps</b>
+<br>bats ↭ stab, draw ↭ ward, evil ↭ live, flog ↭ golf, meet ↭ teem, nets ↭ sten, nuts ↭ stun, 
+<br>pans ↭ snap, part ↭ trap, paws ↭ swap, pots ↭ stop, prat ↭ tarp, rats ↭ star, spit ↭ tips
+
+<b>5-letter semordnilaps</b>
+<br>devil ↭ lived
+<br>smart ↭ trams
+<br>straw ↭ warts
+
+<b>6-letter semordnilaps</b>
+<br>animal ↭ lamina
+<br>diaper ↭ repaid
+<br>drawer ↭ reward
+<br>redraw ↭ warder
 
 &nbsp;
 
