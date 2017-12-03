@@ -16,6 +16,10 @@ The graph of the complete word contains a subgraph which is a subdivision of the
 
 ![supersaturates-eodermdrome](https://github.com/gjoncas/Artificial-Philosophy/blob/master/eodermdrome/supersaturates-eodermdrome.jpg)
 
+&nbsp;
+
+&nbsp;
+
 Nick Land's (2011: 636-38) diagrams of words from Deleuze & Guattari appear to be variations of eodermdromes.
 
 One or Several Wolves, On Several Regimes of Signs, The Geology of Morals (Who Does the Earth Think It Is) [2011: 636]
