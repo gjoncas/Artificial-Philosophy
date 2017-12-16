@@ -49,7 +49,7 @@ Write a program to search a dictionary (or any other corpus) for eodermdromes.
 
 This project can be further extended to eodermdromic phrases or sentences. 
 <br>Here, the vertices of the graph are not letters, but words.
-<br>An unsatisfying example is: figs, lizards, snakes, heat, light, figs, snakes, light, lizards, heat, figs
+<br>An example is: “March in students. March past in May. Past students may march.”
 
 It would be interesting to write a program to find eodermdromic phrases in any given corpus.
 <br>Another idea is Oulipian short stories embodying interesting graph theoretic properties.
