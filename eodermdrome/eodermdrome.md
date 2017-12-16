@@ -62,5 +62,6 @@ It would be interesting to write a program to find eodermdromic phrases in any g
 <li>Bloom, G., Kennedy, J., Quintas, L. (1983). “On Crossing Numbers & Linguistic Structures.” <i>Lecture Notes in Mathematics</i> 1018, pp. 14-22</li>
 <li>Bloom, G., Kennedy, J., & Wexler, P. (1980). “Ensnaring the Elusive Eodermdrome.” <i>Word Ways</i> 13(3), pp. 131-40</li>
 <li>Bloom,&thinsp;G.,&thinsp;Kennedy,&thinsp;J.,&thinsp;&&thinsp;Wexler,&thinsp;P.&thinsp;(1980).&thinsp;“Linguistic Complexity&thinsp;&&thinsp;Minimal&thinsp;Eodermdromes."&thinsp;<i>Linguistics</i>&thinsp;18(1-2),&thinsp;pp. 3-16</li>
+<li>Bloom, G., Kennedy, J., Wexler, P., & Gewirtz, A. (1981). “Eodermdromes: a graph-theoretical tool for linguistics,” in Chartrand, G. (Ed.). (1981). <i>The Theory and Applications of Graphs: Fourth Int. Conf</i>. New York: John Wiley & Sons.</li>
 <li>Eckler, A. (August 1980). “Dictionary Eodermdromes.” <i>Word Ways</i> 13(3): 141–146</li>
 </ul>
