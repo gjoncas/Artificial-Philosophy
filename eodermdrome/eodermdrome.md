@@ -16,13 +16,13 @@ The graph of the complete word contains a subgraph which is a subdivision of the
 
 ![supersaturates-eodermdrome](https://github.com/gjoncas/Artificial-Philosophy/blob/master/eodermdrome/supersaturates-eodermdrome.jpg)
 
-Examples of eodermdromic phrases include [<a href="http://wordaligned.org/articles/oulipo-eodermdrome">via</a>]:
+Examples of eodermdromic phrases containing K₅ include [<a href="http://wordaligned.org/articles/oulipo-eodermdrome">via</a>]:
 
 SHOES ON HENS
 <br>SAMSON MOANS
 <br>DRAB RED BEAD
 <br>TEARS AT REST
-<br>ÉTOILE, ORTIE &nbsp; &nbsp; &nbsp; &nbsp; [star, nettle]
+<br>ÉTOILE, ORTIE &nbsp; &nbsp; &nbsp; &nbsp; [star, nettle] &nbsp; → &nbsp; only works if we conflate L/R
 
 &nbsp;
 
