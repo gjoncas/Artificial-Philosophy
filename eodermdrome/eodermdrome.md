@@ -64,11 +64,13 @@ Eodermdromes can also be applied to non-phonetic writing such as Chinese or Japa
 
 <b>References</b>
 <ul>
-<li>Land, N. (2011). <i>Fanged Noumena: Collected Writings, 1987-2007</i>. Falmouth, UK: Urbanomic.</li>
+<li>Andrews (2012). “Constraints, Poetry and Play in Jacques Roubaud's <i>Parc sauvage</i>.” <i>Australian Journal of French Studies</i> 49(2), pp. 142-52
+<li>Bellos, D. (2010). “Mathematics, Poetry, Fiction: The Adventure of the Oulipo.” <i>BSHM Bulletin: Journal of the British Society for the History of Mathematics</i> 25(2), pp. 104-18</li>
 <li>Bloom, G., Kennedy, J., Quintas, L. (1983). “On Crossing Numbers & Linguistic Structures.” <i>Lecture Notes in Mathematics</i> 1018, pp. 14-22</li>
 <li>Bloom, G., Kennedy, J., & Wexler, P. (1980). “Ensnaring the Elusive Eodermdrome.” <i>Word Ways</i> 13(3), pp. 131-40</li>
 <li>Bloom,&thinsp;G.,&thinsp;Kennedy,&thinsp;J.,&thinsp;&&thinsp;Wexler,&thinsp;P.&thinsp;(1980).&thinsp;“Linguistic Complexity&thinsp;&&thinsp;Minimal&thinsp;Eodermdromes."&thinsp;<i>Linguistics</i>&thinsp;18(1-2),&thinsp;pp. 3-16</li>
 <li>Bloom, G., Kennedy, J., Wexler, P., & Gewirtz, A. (1981). “Eodermdromes: a graph-theoretical tool for linguistics,” in Chartrand, G. (Ed.). (1981). <i>The Theory and Applications of Graphs: Fourth Int. Conf</i>. New York: John Wiley & Sons.</li>
 <li>Eckler, A. (1980). “Dictionary Eodermdromes.” <i>Word Ways</i> 13(3), pp. 141-6</li>
 <li>Eckler, A. (1981). “<a href="https://core.ac.uk/download/pdf/62419789.pdf">Eodermdromes and Non-Chesswords</a>.” <i>Word Ways</i> 14(4), pp. 251-3</li>
+<li>Land, N. (2011). <i>Fanged Noumena: Collected Writings, 1987-2007</i>. Falmouth, UK: Urbanomic.</li>
 </ul>
