@@ -50,9 +50,15 @@ Write a program to search a dictionary (or any other corpus) for eodermdromes.
 This project can be further extended to eodermdromic phrases or sentences. 
 <br>Here, the vertices of the graph are not letters, but words.
 <br>An example is: “March in students. March past in May. Past students may march.”
-
-It would be interesting to write a program to find eodermdromic phrases in any given corpus.
+<br>It would be interesting to write a program to find eodermdromic phrases in any given corpus.
 <br>Another idea is Oulipian short stories embodying interesting graph theoretic properties.
+
+Eodermdromes can also be applied to non-phonetic writing such as Chinese or Japanese.
+<br>Kennedy, Wexler, & Bloom (1980: 138) give an example from classical Chinese: 「知吾：唯足无，知唯无，吾足知。」
+<br>Their translation: “That I know self denotes: just to fill nothing and to know nothing is to satisfy myself.”
+<br>Note that here, the last 知 (zhī) is a <a href="http://ce.linedict.com/#/cnen/entry/34d96795a7384618acb90144b43d025e">通假字</a> (phonetic loan character) for 智 (zhì).
+<br>Due to the sparse vocabulary of classical Chinese, other cases can likely be found ‘in the wild’.
+<br>Tentative Chinese translation: 巡回文 (xúnhuíwén) — cf. 回文, the word for palindrome
 
 &nbsp;
 
@@ -63,5 +69,6 @@ It would be interesting to write a program to find eodermdromic phrases in any g
 <li>Bloom, G., Kennedy, J., & Wexler, P. (1980). “Ensnaring the Elusive Eodermdrome.” <i>Word Ways</i> 13(3), pp. 131-40</li>
 <li>Bloom,&thinsp;G.,&thinsp;Kennedy,&thinsp;J.,&thinsp;&&thinsp;Wexler,&thinsp;P.&thinsp;(1980).&thinsp;“Linguistic Complexity&thinsp;&&thinsp;Minimal&thinsp;Eodermdromes."&thinsp;<i>Linguistics</i>&thinsp;18(1-2),&thinsp;pp. 3-16</li>
 <li>Bloom, G., Kennedy, J., Wexler, P., & Gewirtz, A. (1981). “Eodermdromes: a graph-theoretical tool for linguistics,” in Chartrand, G. (Ed.). (1981). <i>The Theory and Applications of Graphs: Fourth Int. Conf</i>. New York: John Wiley & Sons.</li>
-<li>Eckler, A. (August 1980). “Dictionary Eodermdromes.” <i>Word Ways</i> 13(3): 141–146</li>
+<li>Eckler, A. (1980). “Dictionary Eodermdromes.” <i>Word Ways</i> 13(3), pp. 141-6</li>
+<li>Eckler, A. (1981). “<a href="https://core.ac.uk/download/pdf/62419789.pdf">Eodermdromes and Non-Chesswords</a>.” <i>Word Ways</i> 14(4), pp. 251-3</li>
 </ul>
