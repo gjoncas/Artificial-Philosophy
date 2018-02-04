@@ -64,4 +64,6 @@ Further extensions to this project may try to combine TX with combinatorial game
 <b>References</b>
 <ul>
 <li>Land, N. (2011). <i>Fanged Noumena: Collected Writings, 1987-2007</i>. Falmouth, UK: Urbanomic.</li>
+<li>Land, N., et al. (1999). <i>Abstract Culture: Digital Hyperstition</i>. London: CCRU.</li>
+<li>Land, N., et al. (2015). <i>CCRU: Writings 1997-2003</i>. Shanghai: Time Spiral Press.</li>
 </ul>
