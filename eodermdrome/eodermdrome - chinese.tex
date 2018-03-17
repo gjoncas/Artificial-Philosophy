@@ -1,0 +1,68 @@
+\documentclass{scrartcl}
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{CJKutf8}
+\AtBeginDvi{\input{zhwinfonts}}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric}
+
+
+\begin{document}
+	\begin{CJK*}{UTF8}{zhsong}
+
+\begin{tikzpicture}[mystyle/.style={draw=white,shape=circle,fill=white}]	%知吾唯足无知唯无吾足知
+\def\ngon{5}
+\node[regular polygon,regular polygon sides=\ngon,minimum size=3cm] (p) {};
+\foreach\x in {1,...,\ngon}{\node[mystyle] (p\x) at (p.corner \x){};}
+\foreach\x in {1,...,\numexpr\ngon-1\relax}{
+	\foreach\y in {\x,...,\ngon}{
+		\draw (p\x) -- (p\y);}}
+
+\node[circle,inner sep=0pt,fill=white] at (p1) {知};
+\node[circle,inner sep=0pt,fill=white] at (p5) {吾};
+\node[circle,inner sep=0pt,fill=white] at (p4) {唯};			
+\node[circle,inner sep=0pt,fill=white] at (p3) {足};
+\node[circle,inner sep=0pt,fill=white] at (p2) {无};
+\end{tikzpicture}
+%
+\hspace{0.75cm}
+%
+%
+\begin{tikzpicture}		%知吾唯足无知唯无吾足知
+\node[regular polygon,regular polygon sides=5,minimum width=30mm,] (PG) {}
+(PG.corner 1) node (PG1) {知}
+(PG.corner 5) node (PG2) {吾}
+(PG.corner 4) node (PG3) {唯}
+(PG.corner 3) node (PG4) {足}
+(PG.corner 2) node (PG5) {无};
+
+\foreach \S/\E in {
+	1/2, 1/3,
+	2/3, 2/4,
+	3/4, 3/5,
+	4/1, 4/5,
+	5/1, 5/2%
+} {\draw[->] (PG\S) -- (PG\E);}
+\end{tikzpicture}
+%
+%
+\hspace{0.75cm}
+%
+%
+\begin{tikzpicture}[scale=1.5]	%知吾唯足无知唯无吾足知
+%pentagon
+\draw (0,0.69)--(-0.95,0)--(-0.59,-1.12)--(0.59,-1.12)--(0.95,0)--cycle;
+%pentagram
+\draw (-0.94,-0.01)--(0.94,-0.01)--(-0.58,-1.11)--(0,0.68)--(0.58,-1.11)--cycle;
+%label nodes
+\node [above] at (0,0.69) 			{{\large 知}};
+\node [right] at (0.95,0) 			{{\large 吾}};
+\node [below right] at (0.59,-1.12) {{\large 唯}};
+\node [below left] at (-0.59,-1.12) {{\large 足}};
+\node [left] at (-0.95,0) 			{{\large 无}};
+\end{tikzpicture}
+
+\end{CJK*}
+\end{document}
+
+%NB: originally thought it was 知我谓足无知谓无我足知
