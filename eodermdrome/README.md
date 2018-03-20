@@ -23,6 +23,8 @@ SHOES ON HENS
 <br>DRAB RED BEAD
 <br>TEARS AT REST
 <br>ÉTOILE, ORTIE &nbsp; &nbsp; &nbsp; &nbsp; [star, nettle] &nbsp; → &nbsp; only works if we conflate L/R
+<br>הלמדת מה דלתה &nbsp; &nbsp;[Hebrew: “Did you learn what her door is?”]
+
 
 &nbsp;
 
