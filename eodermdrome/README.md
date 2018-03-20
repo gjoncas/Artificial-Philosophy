@@ -26,7 +26,7 @@ SHOES ON HENS
 
 &nbsp;
 
-Nick Land's (2011: 636-38) diagrams of words from Deleuze & Guattari appear to be variations of eodermdromes.
+Nick Land's (2011: 636-38) diagrams of words from Deleuze & Guattari are likewise a form of spelling net.
 
 One or Several Wolves, On Several Regimes of Signs, The Geology of Morals (Who Does the Earth Think It Is) [2011: 636]
 
