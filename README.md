@@ -22,7 +22,6 @@
 <li>Ramsay, S. (2011). <i>Reading Machines: Toward an Algorithmic Criticism</i>. Chicago: University of Illinois Press.</li>
 <li>Tagliabue, J. (2012). <i>Digital Philosophy: Formal Ontology and Knowledge Representation in Cellular Automata</i>. 
 <br>Unpublished Ph.D Dissertation. Retrieved from http://www.academia.edu/1873531</li>
-<li>Wojcik, M. (2013). <i>Inventing computational rhetoric</i>. Ph.D Dissertation, University of Michigan.</li>
 <li>Zalta, E. (2016). <i>Principia Logico-Metaphysica</i>. Retrieved from http://mally.stanford.edu/principia.pdf</li>
 </ul>
 
