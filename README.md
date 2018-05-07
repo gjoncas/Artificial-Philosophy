@@ -5,7 +5,6 @@
 
 <b>References – Books</b>
 <ul>
-<li>Bynum, T. & Moor, J. (1998). <i>The Digital Phoenix: How Computers are Changing Philosophy</i>. New York: Blackwell</li>
 <li>Corfield, D. (2003). <i>Towards a Philosophy of Real Mathematics</i>. Cambridge: Cambridge University Press.</li>
 <li>Cook, W. (1928). <i>Plotto: The Master Book of All Plots</i>. New York: Tin House Books</li>
 <li>Dewdney, A. (1988). <i>The Armchair Universe: An Exploration of Computer Worlds</i>. New York: W.H. Freeman & Co.</li>
