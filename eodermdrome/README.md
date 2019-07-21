@@ -60,7 +60,7 @@ Eodermdromes can also be applied to non-phonetic writing such as Chinese or Japa
 <br>Their translation: “That I know self denotes: just to fill nothing and to know nothing is to satisfy myself.”
 <br>Note that here, the last 知 (zhī) is a <a href="http://ce.linedict.com/#/cnen/entry/34d96795a7384618acb90144b43d025e">通假字</a> (phonetic loan character) for 智 (zhì).
 <br>Due to the sparse vocabulary of classical Chinese, other cases can likely be found ‘in the wild’.
-<br>Tentative Chinese translation: 巡回文 (xúnhuíwén) — cf. 回文, the word for palindrome
+<br>Tentative Chinese translation: 巡回文 (xúnhuíwén) — a portmanteau of 巡回 (cycle) and 回文 (palindrome).
 
 &nbsp;
 
